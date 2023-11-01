@@ -378,8 +378,9 @@ textarea {
 
 .gold {
   background: linear-gradient(90.16deg, #e8b98b 1.46%, #825b4d 101.44%);
+  text-align: center;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: #000;
+  /* -webkit-text-fill-color: #000; */
   color: #d8b257;
   display: inline-block;
 }
